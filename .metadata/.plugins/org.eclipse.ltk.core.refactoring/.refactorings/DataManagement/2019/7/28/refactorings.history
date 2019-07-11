@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;DM.Dice.main(...)&apos; のローカル変数の名前を &apos;list&apos; から &apos;list1&apos; に変更します&#x0A;- 元のプロジェクト: &apos;DataManagement&apos;&#x0A;- オリジナル要素: &apos;DM.Dice.main(String[]).list&apos;&#x0A;- 名前変更済み要素: &apos;list&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="ローカル変数名 &apos;list&apos; の変更" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;DM{Dice.java[Dice~main~\[QString;@list!103!127!109!112!\[I!0!false" name="list1" references="true" stamp="1562832037615" version="1.0"/>
+</session>
